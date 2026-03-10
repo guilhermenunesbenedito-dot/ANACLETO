@@ -1,7 +1,4 @@
 # ANACLETO
 ANACLETO
 
-![.]
-(https://tenor.com/pt-BR/view/what-the-dog-dog-loading-dog-confuse-corgi-wide-corgi-gif-5677220482674247561)
-
-https://tenor.com/pt-BR/view/what-the-dog-dog-loading-dog-confuse-corgi-wide-corgi-gif-5677220482674247561
+![](https://media1.tenor.com/m/TsmJ8yVex4kAAAAd/what-the-dog-dog-loading.gif)
